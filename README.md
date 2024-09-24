@@ -1,4 +1,6 @@
 ## 🌟 DSA Frontier
+![image](https://github.com/user-attachments/assets/20d4d318-bbef-499d-8891-20ae24fe8127)
+
 "DSA Frontier" is a comprehensive repository designed to be your go-to resource for mastering Data Structures and Algorithms (DSA). Whether you're a beginner starting your journey in coding or a seasoned developer preparing for interviews, this collection of curated questions, solutions, and projects in multiple programming languages will help you unlock the full potential of DSA. Dive in and enhance your problem-solving skills by exploring the frontier of coding excellence!
 
 ## 🚀 About DSA Frontier
@@ -27,6 +29,9 @@ This repository includes solutions implemented using:
 - Version Control: Git and GitHub for managing the repository.
 
 ## 🌐 Repository Structure
+
+![image](https://github.com/user-attachments/assets/716e5fee-79a4-44ec-8101-9bf2fa690a87)
+
 The repository is structured to make it easy for you to find the content you're looking for:
 
 DSA-Frontier/

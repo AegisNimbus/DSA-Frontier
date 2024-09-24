@@ -102,3 +102,43 @@ git push origin feature-branch
 4. **After your pull request is accepted, don’t forget to add your details to the [CONTRIBUTORS.md](https://github.com/AegisNimbus/ML-Alchemy/blob/main/CONTRIBUTORS.md) file to get recognized!**
 
 ## Check our [Contributing Guidelines](https://github.com/AegisNimbus/ML-Alchemy/blob/main/Contributing.md) for detailed information.
+
+## 📜 License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+## 📧 Reach Out
+For any queries, suggestions, or collaboration opportunities, feel free to connect with us:
+
+- **Email**: [info@aegisnimbus.com](mailto:info@aegisnimbus.com)
+- **Website**: [www.aegisnimbus.com](http://www.aegisnimbus.com)
+- **LinkedIn**: [Aegis Nimbus LinkedIn](https://www.linkedin.com/company/aegis-nimbus)
+
+## 🧑‍💼 Maintainers
+
+<div>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/SUGAM-ARORA"><img src="https://github.com/SUGAM-ARORA/UniCollab/assets/96546088/09d60ee5-8215-4327-808f-4edf119370b6" width=150px height=150px /></a></br> <h4 style="color:cyan;">Sugam Arora</h4>
+ <a href="https://www.linkedin.com/in/sugamarora23/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
+ <a href="https://github.com/SUGAM-ARORA"><img src="https://img.icons8.com/fluency/2x/github.png" width="32px" height="32px"></img></a>
+
+   </td>
+<td align="center"><https://github.com/Ojas-Arora"><img src="https://media.licdn.com/dms/image/v2/D5603AQHAGGXI5WsHOg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711454252747?e=1732752000&v=beta&t=KWkUFELnkbvvqTDO4kbo8ebe6jJ6z2F42WcKDbCD6dI" width=150px height=150px /></a></br> <h4 style="color:cyan;">Ojas Arora</h4>
+ <a href="https://www.linkedin.com/in/ojasarora14/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
+ <a href="https://github.com/Ojas-Arora"><img src="https://img.icons8.com/fluency/2x/github.png" width="32px" height="32px"></img></a>
+   </td>
+</tr>
+
+</table>
+
+</div>
+
+## 🌟 Join the DSA Frontier Community
+
+Join our community of developers, contribute, and grow your DSA skills! Whether it's contributing to a project or solving challenging problems, DSA Frontier is the perfect platform for continuous learning.
+
+- Become a Contributor: Fork the repository, solve questions, and submit your solutions.
+  
+- Stay Updated: Follow us on LinkedIn and other platforms for regular updates and coding challenges.
+  
+- Connect: Reach out to us via email for collaboration opportunities or queries.
